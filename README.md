@@ -5,7 +5,7 @@ g
 ## Table of Contents
 
 <!-- TOC -->
-* [GitHub Repository](#github-repository)
+* [GitHub Repository](#github-repository)c
   * [Table of Contents](#table-of-contents)
   * [Requirements](#requirements)
   * [Dependencies](#dependencies)
