@@ -9,7 +9,7 @@ gfdg
   * [Table of Contents](#table-of-contents)
   * [Requirements](#requirements)
   * [Dependencies](#dependencies)
-  * [Usage](#usage)
+  * [Usage](#usage)d
     * [Inputs](#inputs)
     * [Outputs](#outputs)
   * [Notes](#notes)
